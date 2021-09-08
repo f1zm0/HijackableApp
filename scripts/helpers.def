@@ -1,3 +1,0 @@
-EXPORTS
-AddOne=../x64/Release/helpers.AddOne @1
-SubtractOne=../x64/Release/helpers.SubtractOne @2
